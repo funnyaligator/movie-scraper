@@ -1,4 +1,4 @@
-#TOKEN: Final = "6403479380:AAEd29OZd6lyia8gycq84vhmNLIos-cNZ0M"
+#TOKEN: Final = "TELEGRAM BOT TOKEN"
 #from typing import Final
 
 import logging
